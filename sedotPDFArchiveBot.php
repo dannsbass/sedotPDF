@@ -1,5 +1,5 @@
 <?php
-define('TOKEN_BOT', '6307533534:AAEywzNZOoQK_B0Wp3w5Go2q48WnkJCkZHY');
+define('TOKEN_BOT', '1234567890:AAEywzNZOoQK_B0Wp3w5Go2q48WnkJCkZHY');
 define('NAMA_BOT', 'SedotPDFBot');
 
 require 'bot/Bot.php';
