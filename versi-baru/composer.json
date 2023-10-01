@@ -1,0 +1,6 @@
+{
+    "require": {
+        "dannsbass/google-sheets": "^1.0",
+        "dannsbass/bots": "*"
+    }
+}
